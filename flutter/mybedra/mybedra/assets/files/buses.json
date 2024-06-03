@@ -1,0 +1,652 @@
+[
+    {
+      "bus_name": "Usha Kiran (Hebri)",
+      "bus_time": "620",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "SNDP - EX (Udupi)",
+      "bus_time": "705",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Annapoorneshwari - E",
+      "bus_time": "720",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jaison",
+      "bus_time": "720",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jaison",
+      "bus_time": "725",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "U.T.Co.(P) Ltd.- EX ",
+      "bus_time": "732",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padmavathi - EX",
+      "bus_time": "735",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Ballal",
+      "bus_time": "740",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "745",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Amogh - EX",
+      "bus_time": "755",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Sri Krishna Prasad -",
+      "bus_time": "800",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jai Hanuman",
+      "bus_time": "800",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padma",
+      "bus_time": "805",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Sarala",
+      "bus_time": "815",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "SNDP - EX",
+      "bus_time": "820",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Navadurga",
+      "bus_time": "820",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Varsha - EX",
+      "bus_time": "825",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padmambika",
+      "bus_time": "828",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Mahaganesh",
+      "bus_time": "830",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jain - EX",
+      "bus_time": "830",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "833",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padmashree",
+      "bus_time": "835",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Master - EX",
+      "bus_time": "837",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jayaraj ",
+      "bus_time": "847",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jayaraj - EX",
+      "bus_time": "850",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Prasad",
+      "bus_time": "900",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "905",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jolly ",
+      "bus_time": "910",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jolly ",
+      "bus_time": "912",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "917",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padma",
+      "bus_time": "920",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "SMR - EX",
+      "bus_time": "926",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Sri Ganesh - EX",
+      "bus_time": "930",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Priya",
+      "bus_time": "935",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Mahaveera - EX",
+      "bus_time": "937",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal",
+      "bus_time": "940",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Mahaveera - EX",
+      "bus_time": "946",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vaillankani",
+      "bus_time": "948",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal - EX",
+      "bus_time": "951",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "PTC",
+      "bus_time": "955",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "1000",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vaillankani",
+      "bus_time": "1005",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Shriraj - EX",
+      "bus_time": "1008",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "1012",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Air India - EX",
+      "bus_time": "1018",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal - EX",
+      "bus_time": "1025",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vaillankani",
+      "bus_time": "1030",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "1034",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Shriraj - EX",
+      "bus_time": "1038",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vaillankani",
+      "bus_time": "1043",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padmambika - EX",
+      "bus_time": "1051",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Asha",
+      "bus_time": "1102",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "1110",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal ",
+      "bus_time": "1115",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Laxmi Ganesh - EX",
+      "bus_time": "1125",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padmashree",
+      "bus_time": "1135",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jayaraj - EX",
+      "bus_time": "1135",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "1140",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Krishna",
+      "bus_time": "1145",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jayaraj - EX",
+      "bus_time": "1150",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "1201",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Krishna",
+      "bus_time": "1203",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Master - EX",
+      "bus_time": "1203",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Annapoorneshwari - E",
+      "bus_time": "1206",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Sunil - EX",
+      "bus_time": "1210",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Mahaganesh",
+      "bus_time": "1215",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal",
+      "bus_time": "1222",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "1230",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Ujwal",
+      "bus_time": "1235",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jain - EX",
+      "bus_time": "1235",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Sunil - EX",
+      "bus_time": "1240",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Parshwanath",
+      "bus_time": "1244",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padmambika",
+      "bus_time": "1255",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal - EX",
+      "bus_time": "1300",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jayaraj - EX",
+      "bus_time": "1305",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Annapoorneshwari - E",
+      "bus_time": "1307",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "BMS",
+      "bus_time": "1308",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "1320",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha",
+      "bus_time": "1330",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jayaraj",
+      "bus_time": "1338",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jayaraj",
+      "bus_time": "1340",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "1341",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Prasad",
+      "bus_time": "1348",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal - EX",
+      "bus_time": "1358",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jeevan Jyothi",
+      "bus_time": "1400",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal",
+      "bus_time": "1405",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jain - EX",
+      "bus_time": "1412",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padmashree",
+      "bus_time": "1412",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Shriraj - EX",
+      "bus_time": "1415",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Shriraj - EX",
+      "bus_time": "1420",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Shri Kateel",
+      "bus_time": "1420",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Sri Ganesh - EX",
+      "bus_time": "1424",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal - EX",
+      "bus_time": "1425",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Janaki Rama Bharatha",
+      "bus_time": "1430",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Sarala",
+      "bus_time": "1430",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "U.T.Co.(P) Ltd.- EX ",
+      "bus_time": "1435",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padma",
+      "bus_time": "1440",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Annapoorneshwari - E",
+      "bus_time": "1445",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vishal - EX",
+      "bus_time": "1450",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vaillankani",
+      "bus_time": "1450",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "1455",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vaillankani",
+      "bus_time": "1458",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "1500",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padma",
+      "bus_time": "1503",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "1508",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jaison",
+      "bus_time": "1512",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "1515",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jayaraj - EX",
+      "bus_time": "1520",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "APM - EX",
+      "bus_time": "1525",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Jolly ",
+      "bus_time": "1530",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "SNDP - EX",
+      "bus_time": "1535",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha - EX",
+      "bus_time": "1540",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vaillankani",
+      "bus_time": "1540",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Vaillankani",
+      "bus_time": "1543",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Mahaveera - EX",
+      "bus_time": "1547",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Laxmi Ganesh",
+      "bus_time": "1550",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Sajesh",
+      "bus_time": "1555",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Mahaveera - EX",
+      "bus_time": "1557",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Navadurga",
+      "bus_time": "1602",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha",
+      "bus_time": "1608",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "1610",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Nishmitha",
+      "bus_time": "1615",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Reshma - EX",
+      "bus_time": "1620",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Master - EX",
+      "bus_time": "1632",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Padmambika",
+      "bus_time": "1637",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Janet Mary",
+      "bus_time": "1647",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Parshwanath",
+      "bus_time": "1650",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "SNDP",
+      "bus_time": "1655",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Master - EX",
+      "bus_time": "1658",
+      "destination_name": "Karkala"
+    },
+    {
+      "bus_name": "Master - EX",
+      "bus_time": "1700",
+      "destination_name": "Karkala"
+    }
+  ]

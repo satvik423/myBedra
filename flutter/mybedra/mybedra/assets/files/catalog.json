@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Kudremukh Trekk",
+            "desc": "Western Ghat trekk The king of all mountain",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://karnatakahikes.buildreamsgroup.com/temp-images/PHOTO-2021-10-18-22-36-06.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Kedarkantha Trek",
+            "desc": "The summit climb of Kedarkantha is a very rewarding one.  Right from the base camp of the trek, the summit looms large.  As you start your trek in the early hours of the morning and steadily climb up the steep slope, the world opens up around you.",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://karnatakahikes.buildreamsgroup.com/temp-images/PHOTO-2021-10-18-22-36-07.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Kodachadri trekk",
+            "desc": "Gokarna is a True Beach Paradise in the northern part of Karnataka! It has five major beaches which have clean water, gentle waves and amazing views! These are – Gokarna Main Beach, Kudle Beach, Om Beach, Half Moon Beach and Paradise Beach. There are lush green hills in between these beaches which makes Gokarna an even more interesting place to visit.",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://karnatakahikes.buildreamsgroup.com/temp-images/PHOTO-2021-10-18-22-36-14.jpg"
+        },
+        {
+            "id": 4,
+            "name": "kumara parvatha trekking",
+            "desc": "A Winter Trek to Kumara Parvatha – Karnataka's Toughest Trek | TrekNomads. Kumara Parvatha is one of the most famous treks near Bangalore, for one reason that stands apart from the rest – It is said to be Karnataka's toughest treks.",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://karnatakahikes.buildreamsgroup.com/temp-images/PHOTO-2021-10-18-22-36-13.jpg"
+        },
+        {
+            "id": 5,
+            "name": "kumara parvatha trekking",
+            "desc": "A Winter Trek to Kumara Parvatha – Karnataka's Toughest Trek | TrekNomads. Kumara Parvatha is one of the most famous treks near Bangalore, for one reason that stands apart from the rest – It is said to be Karnataka's toughest treks.",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://karnatakahikes.buildreamsgroup.com/temp-images/PHOTO-2021-10-18-22-36-16.jpg"
+        },  {
+            "id": 6,
+            "name": "GokarnaBeack trek",
+            "desc": "A Winter Trek to Kumara Parvatha – Karnataka's Toughest Trek | TrekNomads. Kumara Parvatha is one of the most famous treks near Bangalore, for one reason that stands apart from the rest – It is said to be Karnataka's toughest treks.",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://karnatakahikes.buildreamsgroup.com/temp-images/PHOTO-2021-10-18-22-36-17(1).jpg"
+        }
+     
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733856306376",
+    "project_id": "mybedraauth",
+    "storage_bucket": "mybedraauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733856306376:android:9f5f417c3e2428612b81fd",
+        "android_client_info": {
+          "package_name": "com.example.mybedra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733856306376-ub6d1vef4sm59k3l674kh3fg2v5ci3o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVLHpusxIQr-ejCVfo-FagCJJHqgw6pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733856306376-7dr9p8f32mfh54r9gafru6at0bubk0mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
