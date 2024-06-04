@@ -21,7 +21,7 @@ Hi all, this is my BCA final year project named **MyBedra**. It's a comprehensiv
 
 ## Presentation
 
-For a detailed overview of the project, check out the [presentation](myBedra.pptx).
+For a detailed overview of the project, check out the [presentation](myBedra.pptx) and [documentation](myBedra.pdf).
 
 ## Contact
 
