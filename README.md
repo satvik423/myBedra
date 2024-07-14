@@ -30,6 +30,11 @@ For any inquiries, please contact:
 - **LinkedIn**: [Satvik R Shetty](https://www.linkedin.com/in/satvik-r-shetty/)
 - **GitHub**: [satvik423](https://github.com/satvik423)
 
+## Contributors
+
+- [Mohammed Thouseef](https://github.com/thousee)
+- [Hemant](#)
+
 ---
 
 Thank you for checking out MyBedra! We hope it serves as a valuable resource for your town's residents.
